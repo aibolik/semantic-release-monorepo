@@ -1,7 +1,15 @@
 {
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "other-packages/*"
+  ],
   "name": "semantic-release-monorepo",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Aibol Kussain <aibol.kussain@quandoo.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "semantic-release": "^16.0.2"
+  }
 }
