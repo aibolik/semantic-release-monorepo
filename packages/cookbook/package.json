@@ -1,0 +1,8 @@
+{
+  "workspaces": [
+    "packages/*",
+    "other-packages/*"    
+  ],
+  "name": "@quandoo-dev/cookbook",
+  "version": "1.0.0"
+}
