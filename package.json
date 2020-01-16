@@ -10,6 +10,7 @@
   "author": "Aibol Kussain <aibol.kussain@quandoo.com>",
   "license": "MIT",
   "devDependencies": {
+    "@semantic-release/changelog": "^3.0.6",
     "semantic-release": "^16.0.2"
   },
   "scripts": {
