@@ -11,5 +11,8 @@
   "license": "MIT",
   "devDependencies": {
     "semantic-release": "^16.0.2"
+  },
+  "scripts": {
+    "release": "yarn workspace @quandoo-dev/cookbook release"
   }
 }
