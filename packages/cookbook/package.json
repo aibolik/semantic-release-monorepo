@@ -9,6 +9,6 @@
     "lib"
   ],
   "scripts": {
-    "release": "semantic-release --debug"
+    "release": "semantic-release --debug --no-ci"
   }
 }
